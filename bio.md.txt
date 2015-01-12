@@ -4,5 +4,14 @@ poker, fantasy football, and spending time with my wife and son.
 Programming Background
 
 Prior to attending Oregon State I had no experience programming. I have done 
-well so far during my time at Oregon State, and have enjoyed learning new programming 
-languages and getting some experience. I have so far learned C, C++, and assembly language. 
+well so far during my time at Oregon State, and have enjoyed learning new 
+programming languages and getting some experience. I have so far learned C, 
+C++, and assembly language.
+
+So far my favorite programming project is a game that I made for the final
+project in CS 165. It was a basketball game where two players could select
+different types of shots they would like to do (layup, jump shot, 3 pointer)
+and the different types of shots would have different benefits to them,
+different odds of scoring or getting the shot blocked. It was a lot of work,
+but it was fun and it was really rewarding when I got it to work correctly and
+my wife and I played it together to try it out.
